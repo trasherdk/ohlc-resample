@@ -30,7 +30,7 @@
     "url": "git+https://github.com/m-adilshaikh/ohlc-resample"
   },
   "author": "Adil Shaikh <hello@adils.me> (http://www.adils.me)",
-  "license": "ISC",
+  "license": "LGPL-3.0",
   "bugs": {
     "url": "https://github.com/m-adilshaikh/ohlc-resample/issues"
   },
